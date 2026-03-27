@@ -43,22 +43,17 @@ projetoJava:
 
 Ao executar o programa:
 
-O usuário escolhe um personagem
-Escolhe um alvo
-O sistema realiza o ataque
-O status de todos os personagens é exibido
+O usuário escolhe um personagem, escolhe um alvo, o sistema realiza o ataque, e por fim o status de todos os personagens é exibido
 ---
-💻 Tecnologias Utilizadas
-Java
-Programação Orientada a Objetos (POO)
-🎯 Objetivo
+Tecnologias Utilizadas: Java e o metodo de Promagação Orientada a Objetos (POO)
+Objetivo:
 
 Este projeto foi desenvolvido com o objetivo de praticar e demonstrar conceitos fundamentais de Programação Orientada a Objetos em Java de forma simples e aplicada.
 
 👨‍💻 Autores
 
-Ronnald Leite Formiga Vieira
-Lucas Miranda Paixão
+Ronnald Leite Formiga Vieira.
+Lucas Miranda Paixão e 
 Felipe Henrique Medeiros
 🎓 UEPB
 💻 Estudante de programação focado em Java
