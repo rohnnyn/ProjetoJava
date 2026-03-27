@@ -55,8 +55,10 @@ Programação Orientada a Objetos (POO)
 
 Este projeto foi desenvolvido com o objetivo de praticar e demonstrar conceitos fundamentais de Programação Orientada a Objetos em Java de forma simples e aplicada.
 
-👨‍💻 Autor
+👨‍💻 Autores
 
+Ronnald Leite Formiga Vieira
 Lucas Miranda Paixão
+Felipe Henrique Medeiros
 🎓 UEPB
 💻 Estudante de programação focado em Java
