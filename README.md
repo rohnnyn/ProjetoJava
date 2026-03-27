@@ -1,4 +1,4 @@
-# 🎮 Sistema de Personagens de Jogo em Java
+#Sistema de Personagens de Jogo em Java
 
 Este projeto consiste em um sistema simples de personagens de jogo desenvolvido em Java, com foco na aplicação dos conceitos de **Programação Orientada a Objetos (POO)**.
 
@@ -6,7 +6,7 @@ O sistema simula interações entre personagens como **Guerreiro, Mago e Arqueir
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Criação de diferentes personagens
 - Ataque entre personagens
@@ -17,7 +17,7 @@ O sistema simula interações entre personagens como **Guerreiro, Mago e Arqueir
 
 ---
 
-## 🧠 Conceitos de POO Aplicados
+## Conceitos de POO Aplicados
 
 - **Interface** → definição de ações comuns (`Acoes`)
 - **Classe Abstrata** → base para os personagens (`Personagem`)
@@ -28,15 +28,15 @@ O sistema simula interações entre personagens como **Guerreiro, Mago e Arqueir
 
 ---
 
-## 🧱 Estrutura do Projeto
-projetoJava/
-│
-├── Acoes.java
-├── Personagem.java
-├── Guerreiro.java
-├── Mago.java
-├── Arqueiro.java
-└── Main.java
+## Estrutura do Projeto
+projetoJava:
+ 
+/Acoes.java
+/wPersonagem.java
+/wGuerreiro.java
+/Mago.java
+/Arqueiro.java
+/wMain.java
 
 ---
 🎮 Como Funciona
